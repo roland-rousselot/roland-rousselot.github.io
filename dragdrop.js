@@ -2,7 +2,7 @@
 
 'use strict';
 
-const CANVAS_SCREEN_PROPORTION = 0.88;
+const CANVAS_SCREEN_PROPORTION = 0.82;
 const CANVAS_BACKGROUND_COLOR = '#1f1f1f';
 const TEXT_COLOR = '#FFFFFF';
 const TEXT_SIZE = 24;
